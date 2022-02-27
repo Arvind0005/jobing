@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764591295789",
+    "project_id": "jobing-a63f5",
+    "storage_bucket": "jobing-a63f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764591295789:android:37041de50abbb9595ad7a4",
+        "android_client_info": {
+          "package_name": "com.example.jobing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764591295789-dmmgpejf7cf78n21v5at4qd25q5bab08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANInfChkLcjB2YxXSEEAKp95vMqSGpG1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764591295789-dmmgpejf7cf78n21v5at4qd25q5bab08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
